@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_TEMPSENS
+	bool "tempsens"
+	help
+	  Read from tempsens wiht i2c

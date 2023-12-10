@@ -1,0 +1,1 @@
+source "$BR2_EXTERNAL_raspi_tempsens_PATH/package/tempsens/Config.in"

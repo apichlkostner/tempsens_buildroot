@@ -1,0 +1,1 @@
+include $(sort $(wildcard $(BR2_EXTERNAL_raspi_tempsens_PATH)/package/*/*.mk))
