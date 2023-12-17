@@ -1,4 +1,4 @@
-# Buildroot image for Raspberry Pi with temperature sensor Access
+# Buildroot image for Raspberry Pi with temperature sensor access
 
 - Buildroot as submodule
 - External build tree
