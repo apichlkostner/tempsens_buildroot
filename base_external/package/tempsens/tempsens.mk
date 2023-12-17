@@ -12,7 +12,7 @@ TEMPSENS_INSTALL_TARGET = YES
 
 define TEMPSENS_INSTALL_TARGET_CMDS
 	$(INSTALL) -m 0755 $(@D)/src/dht20 $(TARGET_DIR)/usr/bin/
-	$(INSTALL) -m 0755 $(@D)/src/libdht20_lib.so $(TARGET_DIR)/usr/bin/
+	$(INSTALL) -m 0755 $(@D)/src/libdht20_lib.so $(TARGET_DIR)/usr/lib/
 endef
 
 $(eval $(cmake-package))
