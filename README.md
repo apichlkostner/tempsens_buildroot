@@ -11,3 +11,4 @@
 
 - Use build.sh to build the project
 - Configure buildroot inside buildroot folder, use cp_config.sh to save to configuration
+- Set ssh public key in /root/.ssh/authorized_keys
